@@ -10,6 +10,10 @@ using System.Windows.Forms;
 
 namespace Number_Puzzle_Game_Project
 {
+    /* Number Puzzle is a classic puzzle game. Tap to move the number tiles, can put your logical, pattern identification, 
+     * and sequence solving skills to the test. The player may have infinite attempts to solve a puzzle and view the number 
+     * of movements. Challenge your logic, and have fun!
+    */
     public partial class Number_Puzzle_Menu : Form
     {
         public Number_Puzzle_Menu()
@@ -17,7 +21,7 @@ namespace Number_Puzzle_Game_Project
             InitializeComponent();
         }
 
-        //Load game
+        //Load the game
         private void btn_play_Click(object sender, EventArgs e)
         {
             this.Refresh();

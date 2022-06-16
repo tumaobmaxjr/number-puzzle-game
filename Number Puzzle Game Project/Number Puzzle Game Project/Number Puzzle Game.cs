@@ -10,6 +10,7 @@ using System.Windows.Forms;
 
 namespace Number_Puzzle_Game_Project
 {
+    /* This is the structure of the game */
     public partial class Number_Puzzle_Game : Form
     {
         public Number_Puzzle_Game()
@@ -17,6 +18,7 @@ namespace Number_Puzzle_Game_Project
             InitializeComponent();
         }
 
+        //This is a function to check if the box is empty
         public void EmptyBoxChecker(Button Butt1, Button Butt2)
         {
             if(Butt2.Text == "")
@@ -27,7 +29,7 @@ namespace Number_Puzzle_Game_Project
         }
 
         int ctr;
-        //Solution checker
+        //Check if the puzzle be able to complete
         public void Checker()
         {
             if(button1.Text == "1" && button2.Text == "2" && button3.Text == "3" &&
@@ -36,10 +38,12 @@ namespace Number_Puzzle_Game_Project
             {
                 MessageBox.Show("Congratulations! You have successfully completed.", "Number Puzzle Game", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
+            //Add a feature to view the number of movements
             ctr = ctr + 1;
             textBox1.Text = "Moves: " + ctr;
         }
         
+        //Shuffle the puzzle or button numbers
         public void toShuffle()
         {
             int[] bnum = new int[9];
@@ -83,16 +87,19 @@ namespace Number_Puzzle_Game_Project
             button9.Text = "";
         }
 
+        //Game load...
         private void Number_Puzzle_Game_Load(object sender, EventArgs e)
         {
             toShuffle();
         }
 
+        //Clicking button to shuffle the puzzle
         private void btn_shuffle_Click(object sender, EventArgs e)
         {
             toShuffle();
         }
 
+        //It reset the entire game or puzzle
         private void btn_reset_Click(object sender, EventArgs e)
         {
             toShuffle();
@@ -103,6 +110,7 @@ namespace Number_Puzzle_Game_Project
             reset.Show();
         }
 
+        //Clicking buttons to move the number tiles
         private void button1_Click_1(object sender, EventArgs e)
         {
             EmptyBoxChecker(button1, button2);
@@ -171,6 +179,7 @@ namespace Number_Puzzle_Game_Project
             Checker();
         }
 
+        //Asking the user to exit or cancel after clicking Close Button
         private void Number_Puzzle_Game_FormClosing_1(object sender, FormClosingEventArgs e)
         {
             DialogResult iExit = MessageBox.Show("Are you sure you want to Exit?", "Confirmation", MessageBoxButtons.YesNo, MessageBoxIcon.Question);

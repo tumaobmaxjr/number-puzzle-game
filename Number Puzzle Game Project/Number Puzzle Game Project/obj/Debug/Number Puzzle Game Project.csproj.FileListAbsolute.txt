@@ -8,15 +8,4 @@ C:\Users\Acer\source\repos\Number Puzzle Game Project\Number Puzzle Game Project
 C:\Users\Acer\source\repos\Number Puzzle Game Project\Number Puzzle Game Project\obj\Debug\Number Puzzle Game Project.exe
 C:\Users\Acer\source\repos\Number Puzzle Game Project\Number Puzzle Game Project\obj\Debug\Number Puzzle Game Project.pdb
 C:\Users\Acer\source\repos\Number Puzzle Game Project\Number Puzzle Game Project\obj\Debug\Number_Puzzle_Game_Project.Number_Puzzle_Game.resources
-C:\Users\Acer\source\repos\Number Puzzle Game Project\Number Puzzle Game Project\obj\Debug\Number_Puzzle_Game_Project.Number_Puzzle.resources
-D:\Documents\19-1-01739\3rd Year\2nd Semester\CSci 151 - Event Driven Programming\Laboratory\Number Puzzle Game Project\Number Puzzle Game Project\bin\Debug\Number Puzzle Game Project.exe.config
-D:\Documents\19-1-01739\3rd Year\2nd Semester\CSci 151 - Event Driven Programming\Laboratory\Number Puzzle Game Project\Number Puzzle Game Project\bin\Debug\Number Puzzle Game Project.exe
-D:\Documents\19-1-01739\3rd Year\2nd Semester\CSci 151 - Event Driven Programming\Laboratory\Number Puzzle Game Project\Number Puzzle Game Project\bin\Debug\Number Puzzle Game Project.pdb
-D:\Documents\19-1-01739\3rd Year\2nd Semester\CSci 151 - Event Driven Programming\Laboratory\Number Puzzle Game Project\Number Puzzle Game Project\obj\Debug\Number Puzzle Game Project.csproj.AssemblyReference.cache
-D:\Documents\19-1-01739\3rd Year\2nd Semester\CSci 151 - Event Driven Programming\Laboratory\Number Puzzle Game Project\Number Puzzle Game Project\obj\Debug\Number_Puzzle_Game_Project.Number_Puzzle_Menu.resources
-D:\Documents\19-1-01739\3rd Year\2nd Semester\CSci 151 - Event Driven Programming\Laboratory\Number Puzzle Game Project\Number Puzzle Game Project\obj\Debug\Number_Puzzle_Game_Project.Number_Puzzle_Game.resources
-D:\Documents\19-1-01739\3rd Year\2nd Semester\CSci 151 - Event Driven Programming\Laboratory\Number Puzzle Game Project\Number Puzzle Game Project\obj\Debug\Number_Puzzle_Game_Project.Properties.Resources.resources
-D:\Documents\19-1-01739\3rd Year\2nd Semester\CSci 151 - Event Driven Programming\Laboratory\Number Puzzle Game Project\Number Puzzle Game Project\obj\Debug\Number Puzzle Game Project.csproj.GenerateResource.cache
-D:\Documents\19-1-01739\3rd Year\2nd Semester\CSci 151 - Event Driven Programming\Laboratory\Number Puzzle Game Project\Number Puzzle Game Project\obj\Debug\Number Puzzle Game Project.csproj.CoreCompileInputs.cache
-D:\Documents\19-1-01739\3rd Year\2nd Semester\CSci 151 - Event Driven Programming\Laboratory\Number Puzzle Game Project\Number Puzzle Game Project\obj\Debug\Number Puzzle Game Project.exe
-D:\Documents\19-1-01739\3rd Year\2nd Semester\CSci 151 - Event Driven Programming\Laboratory\Number Puzzle Game Project\Number Puzzle Game Project\obj\Debug\Number Puzzle Game Project.pdb
+C:\Users\Acer\source\repos\Number Puzzle Game Project\Number Puzzle Game Project\obj\Debug\Number_Puzzle_Game_Project.Number_Puzzle_Menu.resources
